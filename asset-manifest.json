@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-todolist/static/js/main.e9047405.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/react-todolist/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/react-todolist/index.html",
+    "main.e9047405.js.map": "/react-todolist/static/js/main.e9047405.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/react-todolist/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e9047405.js"
+  ]
+}
